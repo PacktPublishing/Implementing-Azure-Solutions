@@ -11,7 +11,7 @@ To maintain an isolated and secure environment so that you can run your virtual 
 By the end, you will be able to implement Azure solutions such as networking, storage, and cloud effectively.
 
 ## Instructions and Navigation
-All of the code is organized into folders. For example, Chapter02.
+All of the code is organized into folders. For example, Chapter03.
 
 
 
